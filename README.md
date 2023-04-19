@@ -1,5 +1,5 @@
 # Kraken2 and BlastN Ensemble Classification
-The script used to detect intersecting Blast and Kraken2 reads in "Examining pathogen DNA recovery across the remains of a 14th century Italian friar (Giansante Brancorsini) infected with _Brucella melitensis_" (Hider _et al._,In Review).
+The script used to detect intersecting Blast and Kraken2 reads in "Examining pathogen DNA recovery across the remains of a 14th century Italian friar (Giansante Brancorsini) infected with _Brucella melitensis_" ([Hider _et al._ 2022](https://doi.org/10.1016/j.ijpp.2022.08.002)).
 
 # Setup
 Place the three scripts in the same folder and run _ReadIntersection.sh_. This script assumes that the Blast (default output) and Kraken runs have already been completed. Please note that this script requires the Standard Kraken Output.
